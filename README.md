@@ -78,5 +78,7 @@ pip install -r requirements.txt
 
 ```
 --> Cài đặt các table trong file table.sql bằng PostgreSQL.
+
 --> Cài đặt các procedure trong file procedure.sql bằng PostgreSQL.
+
 --> Chạy file crawl_all.py
