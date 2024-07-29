@@ -81,4 +81,4 @@ pip install -r requirements.txt
 
 --> Cài đặt các procedure trong file procedure.sql bằng PostgreSQL.
 
---> Chạy file crawl_all.py
+--> Để crawl tất cả dữ liệu, chạy file crawl_all.py, để crawl dữ liệu ngày hôm qua, chạy file crawl_daily.py
